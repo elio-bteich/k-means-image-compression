@@ -61,7 +61,7 @@ Feel free to experiment with different values to achieve your desired image quan
 
 ## Acknowledgement
 
-This project has been inspired by the K-Means clustering algorithm as taught in the ["Machine Learning" course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera, which is approved by Stanford University and Deep Learning.ai. While this implementation takes inspiration from the concepts taught in the course, it has been independently developed and customized.
+This project has been inspired by the K-Means clustering algorithm as taught in the ["Machine Learning" course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera, which is approved by Stanford University and DeepLearning.ai. While this implementation takes inspiration from the concepts taught in the course, it has been independently developed and customized.
 
 ## License
 
