@@ -1,6 +1,10 @@
-# K-Means Image Quantization
+# K-Means Image Compression
 
-This repository contains a Python script that implements the K-Means clustering algorithm for image quantization. Image quantization involves reducing the number of colors in an image while preserving its visual content. The K-Means algorithm groups similar colors together and assigns representative colors, creating a 'quantized' version of the original image.
+This repository contains a Python script that utilizes the K-Means clustering algorithm for image compression. Image compression involves reducing the data size of an image while striving to maintain its visual quality. The K-Means algorithm groups similar colors together and assigns representative colors, effectively compressing the image's color palette and creating a compressed version of the original image.
+
+The K-Means Image Compression script reads in a JPG image and applies the K-Means clustering algorithm to compress the image's color palette. By reducing the number of distinct colors in the image, it aims to achieve a smaller file size while still preserving the overall visual appearance.
+
+Please note that this script is specifically designed for JPG images.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
