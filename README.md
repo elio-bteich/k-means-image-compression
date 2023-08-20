@@ -10,6 +10,7 @@ Please note that this script is specifically designed for JPG images.
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Acknowledgement](#acknowledgement)
 - [License](#license)
 
 ## Prerequisites
@@ -57,6 +58,10 @@ You can customize the behavior of the script by modifying the following paramete
 - `num_iterations`: Number of iterations for the K-Means algorithm.
 
 Feel free to experiment with different values to achieve your desired image quantization results.
+
+## Acknowledgement
+
+This project has been inspired by the K-Means clustering algorithm as taught in the ["Machine Learning" course](https://www.coursera.org/learn/machine-learning) by Andrew Ng on Coursera, which is approved by Stanford University and Deep Learning.ai. While this implementation takes inspiration from the concepts taught in the course, it has been independently developed and customized.
 
 ## License
 
